@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/**Header section**/
+.mobile-number:hover{
+    color: yellow !important;
+    transition: 0.3s;
+}
+.nav-item .nav-link:hover{
+    color: yellow !important;
+    transition: 0.3s;
+}
